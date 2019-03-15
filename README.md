@@ -1,16 +1,9 @@
-# animation
+# Animations
 
-A new Flutter project.
+This is just a project that plays around with Flutter animations, it mixes status changes, Tween, Animation, AnimationController and AnimatedBuilder. 
+Just tap the box and see what happens.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+[Cat Inside Box](/screenshots/cat-in.png)
+[Cat Outside Box](/screenshots/cat-out.png)
