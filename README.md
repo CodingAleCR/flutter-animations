@@ -5,5 +5,5 @@ Just tap the box and see what happens.
 
 ## Screenshots
 
-![Cat Inside Box](/screenshots/cat-in.png | width=100)
-![Cat Outside Box](/screenshots/cat-out.png | width=100)
+![Cat Inside Box](/screenshots/cat-in.png)
+![Cat Outside Box](/screenshots/cat-out.png)
